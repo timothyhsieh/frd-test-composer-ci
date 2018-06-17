@@ -1,7 +1,7 @@
 uuid: 11182eb2-9ac9-4f4f-8785-700b35807f1d
 name: frd-test-composer-ci
 mail: git@seamonsters.org
-slogan: ''
+slogan: 'Testing CI'
 page:
   403: ''
   404: ''
